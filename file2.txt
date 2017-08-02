@@ -1,3 +1,5 @@
 initial text file 2
 
 additional changes to file 2
+
+more stashed changes

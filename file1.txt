@@ -3,3 +3,5 @@ initial file 1 text in master
 additional changes to file 1
 
 amended changes
+
+v 2.0 changes
